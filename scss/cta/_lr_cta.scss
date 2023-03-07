@@ -1,0 +1,62 @@
+.l_cta,.r_cta{
+   width: 455px;
+   height: 373px;}
+.name-tel,.ad_cta{
+   display: flex;
+   justify-content: space-between;}
+   .name-tel,.ad_cta,.ipcta{margin: 0 0 14px 0;}
+   .n-t{width: 222px;height: 58px;}
+   .street{width: 455px; height: 58px;}
+   .ads{height: 58px;width:105px;}
+   input{border-radius: 4px;}
+   .pcta{color: #fff; font-weight: 400;font-size: 18px;}
+   .name-tel,.ad_cta,.ipcta{margin: 0 0 14px 0;}
+   .n-t{width: 222px;height: 58px;}
+   .street{width: 455px; height: 58px;}
+   .ads{height: 58px;width:105px;}
+   input{border-radius: 5px;}
+   .pcta{color: #fff; font-weight: 400;font-size: 18px;}
+.pay_cta{margin: 36px 0px; display: flex;
+   .radio{ 
+      display: flex;
+      width: 166px;
+      align-items: center;
+      margin: 0 10px ;
+      gap: 10px;
+      .elem{
+         display: none;}
+      .visual{
+         width: 26px;
+         height: 26px;
+         position: relative;
+         &::before{
+            width: 14px;
+            height: 14px;
+            background: #000;
+            border-radius: 50%;
+         }}
+      }
+   .btn_cta{
+      display: flex;
+      width: 450px;
+      height: 40px;
+      margin: 45px 0;
+      align-items: center;
+      gap: 60px;
+         }
+   .ppcta{width: 450px;height: 154px;}
+   .dpcta{height: 174px;}
+   .check_{
+      display: flex; 
+      gap: 10px;
+      margin: 12px;
+      width: 400px;}}
+.btn{width: 156px;
+   text-align: center;
+   padding: 21px 5px;
+   margin: 15px 0px;
+   background-color: #FEDB3F;
+   border-radius: 100px;
+   text-decoration: none;
+   font-weight: 800;
+   color: black;}

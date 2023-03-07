@@ -1,0 +1,27 @@
+.menu{
+   position: absolute;
+   width: 940px;
+   height: 39.26px;
+   display: flex;
+   color: #fff;
+   margin: 28px 80px;
+   justify-content: space-between;
+   align-items: center;
+   &:last-child {
+      margin-right: 0;}
+   .up{width: 638px;
+      height: 29.53px;
+      flex-direction: row;
+      .ul-menu{display: flex;
+            justify-content: space-between;
+            align-items: center;
+            list-style: none;
+            li{font-size: 18px;
+               line-height: 20px;}
+               font-weight: 700;}}
+            .telefon{
+               display: flex;
+               width: 153px;
+               gap: 5px;}
+            .pt{font-weight: 700;
+                  line-height: 18px;}}   

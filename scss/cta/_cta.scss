@@ -1,0 +1,14 @@
+.cta{
+   background: url(../img/fcta.png) center, center, no-repeat;
+   .lr_cta{
+      display: flex;
+      width: 930px;
+      height: 363px;
+      justify-content: space-between;
+      margin: 0 80px 85px 81px;}
+   .hcta{
+   font-size: 48px;
+   text-transform: uppercase;
+   color: #fff;
+   padding: 62px 351px 61px 351px;}}
+@import "_lr_cta.scss";

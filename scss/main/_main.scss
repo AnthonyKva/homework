@@ -1,0 +1,13 @@
+.main{
+   display: flex;
+   flex-direction: column;
+   position: absolute;
+   width: 100%;
+   height: 652px;
+   left: 0px;
+   top: 0px;
+   background: url(../img/main-surf.png) center, center, no-repeat;
+   background-color: #1967b15a;}
+@import "_menu.scss";
+@import "_txt-menu.scss";
+@import "_bullet.scss";

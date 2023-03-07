@@ -1,0 +1,28 @@
+.humans{
+   width: 940px;
+   height: 454px;
+   margin: 0px 78px 20px 81px;
+   display: flex;
+   justify-content: space-around;
+   .ahu{
+      width: 200px;
+      height: 180px;
+      margin: 20px 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      .profi{
+         margin: 20px 0 ;
+         text-align: center;
+      }
+      .aname{
+         width: 200px;
+         height: 20px;
+         display: flex;
+         gap: 10px;
+         .np{
+               height: 12px;
+         }
+         .name{
+               font-weight: 700;
+               font-size: 21.0181px;}}}}

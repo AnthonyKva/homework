@@ -1,0 +1,19 @@
+.block_s-f{
+   display: flex;
+   justify-content: space-around;
+   width: 950px;
+   height: 200px;
+   margin: 0px 75px 32px;
+   gap: 10px;
+   .block-f{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 280px;
+      height: 167px;
+      .pbf{
+         text-align: center;
+      }
+      h3{
+      padding: 10px;}}}

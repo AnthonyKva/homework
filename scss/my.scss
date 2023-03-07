@@ -1,0 +1,34 @@
+@import "_main.scss";
+@import "_features.scss";
+@import "_shop.scss";
+@import "_team.scss";
+@import "_feedback.scss";
+@import "_cta.scss";
+body{
+    width: 100%;
+    height: 5944px;
+    font-family: 'Alegreya Sans', sans-serif;
+    flex-direction: column;
+    position: relative;
+    .features,.team.slider,.feedback,.video,.cta,.map{
+        position: relative;
+        width: 100%;
+        height: 652px;
+        min-height: 100%;
+        overflow: hidden;}}
+*{
+    margin: 0;
+    padding: 0;}
+.sidebar{
+    position: fixed;
+    width: 18px;
+    height: 652px;
+    margin: 215px 5px 0px 1050px;
+    top: 0px;
+    z-index: 1;
+    color: #fff;}
+h4{
+    font-size: 48px;
+    text-transform: uppercase;
+    margin: 67px 436px 53px 436px;}
+

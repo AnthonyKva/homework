@@ -1,0 +1,18 @@
+.imgbf{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   width: 810px;
+   height: 128px;
+   margin: 290px 180px 0px 150px;
+   .dibf{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-image: url(../img/circle.png);
+      width: 128px; height: 128px;
+      #circ{
+            width: 68px; height: 30px}
+      .ibf{
+            width: 68px;
+            height: 68px;}}}
